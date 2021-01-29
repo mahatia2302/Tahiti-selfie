@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* page 1 */
+
+.page1{
+    background-image: url(../img/coming_soon_bg.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	
+}
+
+.btn8{
+    width: 140px;
+	height: 50px;
+}
+.menu{
+	opacity: 0.8;
+	height: 150px;
+	width: 100%;
+	position:absolute;
+	bottom:0;
+
+}
+#inscription-btn a{
+ color: white;
+text-decoration: none;
+}
+
+#inscription-btn{
+font-size: 22px;;
+}
+
+/* fin de la page 1 */
+
+/* page rose */
+.page_rose{
+    background:radial-gradient(rgb(233, 150, 164), rgb(255, 191, 131));
+}
+
+#logo{
+    padding-top: 10%;
+}
+
+.cadre{
+	width:500px;
+	height: 100px;
+	position: relative;
+	bottom: auto;
+	padding-top: 06%;
+}
+
+/* Fin de la 1 ere page */
+
+/*  middle */
+
+/* page 2 */
+
+.page2{
+    background-image: url(../img/inscription_bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%
+}
+
+#texte1_midle{
+    padding-top: 6%;
+    padding-right: 40%;
+}
+
+#texte2_midle{
+    padding-top: 10%;
+    padding-left: 45%;
+}
+
+.texte_avenir_titre1{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(28, 65, 121);
+}
+
+.texte_avenir_titre2{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(28, 65, 121);
+}
+
+.texte_avenir{
+    font-weight: bold;
+    font-size: 30px;
+    color:  rgb(87, 161, 252);
+}
+
+/* page bleu */
+.page_bleu{
+    background:radial-gradient(rgb(74, 148, 153), rgb(28, 65, 121));
+    width: 100%;
+}
+
+.texte_sur_tableau{
+    padding-bottom: 30px;
+}
+
+#texte_sur{
+    font-size: 47px;
+    font-weight: bold;
+    color: rgb(148, 196, 255);
+}
+
+.pink{
+    color: rgb(255, 187, 198);
+    font-size: 47px;
+}
+
+#table{
+    padding-top: 20px;
+}
+
+#tableau{
+    width: 50%;
+}
+
+.texte_haut_tableau{
+    color: whitesmoke;
+    font-weight: bold;
+    padding-bottom: 5%;
+    font-size: 20px;
+    text-decoration: underline whitesmoke;
+}
+
+.appli_inscri{
+    color: black;
+    font-size: 20px;
+}
+
+#btn1_inscription{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(88, 88, 255);
+    border: grey solid 3px;
+}
+
+#btn2_inscription{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(255, 117, 117);
+    border: grey solid 3px;
+}
+
+#btn3_inscription{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(253, 115, 223);
+    border: grey solid 3px;
+}
+
+#btn4_inscription{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(170, 170, 170);
+    border: rgb(163, 163, 163) solid 3px;
+}
+
+.xd{
+	width: 60%;
+}
+
+#btn5_inscription{
+    width: 200px;
+    height: 50px;
+    background:radial-gradient(rgb(255, 178, 251), rgb(255, 34, 196));
+	border-radius: 5px;
+}
+
+.col_tableau{
+    padding-top: 10px;
+}
+
+.texte_sous_tableau{
+    padding-top: 50px;
+}
+
+#texte_sous{
+    font-size: 37px;
+    font-weight: bold;
+    color: rgb(148, 196, 255);
+}
+
+/* fin de la page bleu */
+
+ 
+
